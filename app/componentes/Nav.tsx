@@ -30,7 +30,7 @@ const Nav = () => {
             </Link>
 
             <Link 
-              href="/paginas/repositorio" 
+              href="/paginas/repositorios" 
               className="inline-flex items-center px-1 pt-1 text-sm font-medium text-slate-500 hover:text-blue-600 transition-colors gap-2"
             >
               <GitBranch size={18} />
